@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Candado reforzado v2",
+    "description": "De acero templado, ideal para exteriores - v2",
+    "code": "LSH-GT15FI",
+    "price": 7500,
+    "status": true,
+    "stock": 15,
+    "category": "Automotor",
+    "thumbnails": [
+      "https://pampalaplata.com.ar/wp-content/uploads/2023/06/45940-1.jpg",
+      "https://pampalaplata.com.ar/wp-content/uploads/2024/04/47187-1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Carcasa Rebatible Telemando VW/AUDI 8X0 837 220",
+    "description": "Carcasa original para telemando de VW / Audi (modelo 8X0 837 220 / 8X0 837 220D), incluye PCF integrado - 433MHz.",
+    "code": "CAR-AUDI8X0",
+    "price": 5400,
+    "status": false,
+    "stock": 0,
+    "category": "Automotor",
+    "thumbnails": [
+      "https://pampalaplata.com.ar/wp-content/uploads/2023/07/29261-1.jpg"
+    ]
+  },
+  {
+    "title": "Candado reforzado",
+    "description": "De acero templado, ideal para exteriores",
+    "code": "CAN-301",
+    "price": 2800,
+    "status": true,
+    "stock": 10,
+    "category": "Candados",
+    "thumbnails": [
+      "https://pampalaplata.com.ar/wp-content/uploads/2024/04/47125_1-1.jpg"
+    ],
+    "id": 4
+  }
+]
